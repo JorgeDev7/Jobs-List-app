@@ -5,13 +5,13 @@
 
 How you can start this Proyect: 
 -------------------------------
-Command: npm run dev
+npm run dev
 -------------------------------
 
 
 If you want to build it: 
 -------------------------------
-Command: npm run build
+npm run build
 -------------------------------
 
 
