@@ -15,7 +15,7 @@ export default function JobList() {
     useEffect(() => {
 
         const callJobs = async () => {
-            const url = import.meta.env.VITE_DATA_JOBS;
+            const url = '../../data/data.json';
             const { data } = await axios(url);
 
             setJobs(data);
